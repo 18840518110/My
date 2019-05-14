@@ -20,7 +20,10 @@ parts/
 sdist/
 var/
 wheels/
+<<<<<<< HEAD
 share/python-wheels/
+=======
+>>>>>>> 39c2d146ec584e837c9fd5b810db6735dfea62f2
 *.egg-info/
 .installed.cfg
 *.egg
@@ -39,7 +42,10 @@ pip-delete-this-directory.txt
 # Unit test / coverage reports
 htmlcov/
 .tox/
+<<<<<<< HEAD
 .nox/
+=======
+>>>>>>> 39c2d146ec584e837c9fd5b810db6735dfea62f2
 .coverage
 .coverage.*
 .cache
@@ -74,10 +80,13 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+<<<<<<< HEAD
 # IPython
 profile_default/
 ipython_config.py
 
+=======
+>>>>>>> 39c2d146ec584e837c9fd5b810db6735dfea62f2
 # pyenv
 .python-version
 
@@ -108,8 +117,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+<<<<<<< HEAD
 .dmypy.json
 dmypy.json
 
 # Pyre type checker
 .pyre/
+=======
+>>>>>>> 39c2d146ec584e837c9fd5b810db6735dfea62f2
